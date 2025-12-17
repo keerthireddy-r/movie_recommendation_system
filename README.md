@@ -13,7 +13,7 @@ This project allows users to get personalized movie recommendations based on mov
 ---
 
 ## 🛠️ Technologies & Tools
-- **Python 3**  
+- **Python**  
 - **Libraries:** pandas, numpy, scikit-learn, ast, pickle, requests, Streamlit  
 - **NLP:** CountVectorizer, Cosine Similarity for content-based recommendations  
 - **Visualization & UI:** Streamlit  
